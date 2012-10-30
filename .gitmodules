@@ -1,0 +1,3 @@
+[submodule "auth/googleoauth2"]
+	path = auth/googleoauth2
+	url = git://github.com/mouneyrac/auth_googleoauth2.git
