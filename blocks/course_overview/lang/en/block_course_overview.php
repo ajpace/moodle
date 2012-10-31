@@ -1,2 +1,2 @@
 <?php
-$string['pluginname'] = 'Course overview';
+$string['pluginname'] = 'Competition overview';
