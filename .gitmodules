@@ -1,6 +1,3 @@
-[submodule "auth/googleoauth2"]
-	path = auth/googleoauth2
-	url = git@github.com:ajpace/auth_googleoauth2.git
 [submodule "theme/zebra"]
 	path = theme/zebra
 	url = git@github.com:ajpace/Zebra_4_Moodle_2.git
