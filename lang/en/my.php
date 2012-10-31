@@ -3,7 +3,7 @@
 
 
 $string['mymoodle'] = 'My Moodle';
-$string['nocourses'] = 'No course information to show.';
+$string['nocourses'] = 'No competition information to show.';
 $string['noguest'] = 'The \'My Moodle\' page is not available to guest users';
 $string['pinblocks'] = 'Configure pinned blocks for my moodle';
 $string['pinblocksexplan'] = 'Any block settings you configure here will be visible (and non-editable) for any user of moodle on their \'My Moodle\' overview page.';

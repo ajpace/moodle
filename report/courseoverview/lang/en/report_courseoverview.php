@@ -23,5 +23,5 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['courseoverview:view'] = 'View course overview report';
-$string['pluginname'] = 'Course overview';
+$string['courseoverview:view'] = 'View competition overview report';
+$string['pluginname'] = 'Competition overview';

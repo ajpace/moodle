@@ -29,15 +29,15 @@ $string['bynameondate'] = 'by {$a->name} - {$a->date}';
 $string['cannotdeletepost'] = 'Error occurred while deleting post';
 $string['configenablenotes'] = 'Enable storing of notes about individual users.';
 $string['content'] = 'Content';
-$string['course'] = 'course';
-$string['coursenotes'] = 'Course notes';
+$string['course'] = 'competition';
+$string['coursenotes'] = 'Competition notes';
 $string['created'] = 'created';
 $string['deleteconfirm'] = 'Delete this note?';
 $string['deletenotes'] = 'Delete all notes';
 $string['editnote'] = 'Edit note';
 $string['enablenotes'] = 'Enable notes';
 $string['groupaddnewnote'] = 'Add a common note';
-$string['invalidcourseid'] = 'Invalid course id: {$a}';
+$string['invalidcourseid'] = 'Invalid competition id: {$a}';
 $string['invalidid'] = 'Invalid note ID specified';
 $string['invaliduserid'] = 'Invalid user id: {$a}';
 $string['nocontent'] = 'Note content can not be empty';
@@ -56,8 +56,8 @@ $string['publishstate'] = 'Context';
 $string['publishstate_help'] = 'A note\'s context determines who can see the note.
 
 * Personal - The note will be visible only to you
-* Course - The note will be visible to teachers in this course
-* Site - The note will be visible to teachers in all courses';
+* Course - The note will be visible to teachers in this competition
+* Site - The note will be visible to teachers in all competitions';
 $string['selectnotestate'] = "Select note state";
 $string['site'] = 'site';
 $string['sitenotes'] = 'Site notes';
